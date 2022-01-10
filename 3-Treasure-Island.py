@@ -48,7 +48,7 @@ if direction == "left":
     ''')
         door = input("Well damn global warming did it's magic and dried up the lake! You walk across and see a red door, green door, and a blue door. Which color door do you choose?\n").lower()
         if door == "green" or door == "the green door" or door == "green door":
-            print("You go in the room and find the treasure. You use it to pay off your student loans and use the rest to by a soda or something. \n Good job!")
+            print("You go in the room and find the treasure. You use it to pay off your student loans and use the rest to buy a soda or something. \n Good job!")
         else:
             print('The room is filled with monitors displaying the Netflix "Are you still there?" screen. \n You know the one where you can see yourself in the reflection and contemplate your life choices. That one. \n Anyways you walk out and go home not realizing you totally could have checked out what was behind the other doors. \n Game over ')
     else:
